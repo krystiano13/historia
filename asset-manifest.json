@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/historia/static/css/main.5239b431.chunk.css",
+    "main.js": "/historia/static/js/main.34d845fa.chunk.js",
+    "main.js.map": "/historia/static/js/main.34d845fa.chunk.js.map",
+    "runtime-main.js": "/historia/static/js/runtime-main.e61f0a22.js",
+    "runtime-main.js.map": "/historia/static/js/runtime-main.e61f0a22.js.map",
+    "static/js/2.491ce637.chunk.js": "/historia/static/js/2.491ce637.chunk.js",
+    "static/js/2.491ce637.chunk.js.map": "/historia/static/js/2.491ce637.chunk.js.map",
+    "index.html": "/historia/index.html",
+    "static/css/main.5239b431.chunk.css.map": "/historia/static/css/main.5239b431.chunk.css.map",
+    "static/js/2.491ce637.chunk.js.LICENSE.txt": "/historia/static/js/2.491ce637.chunk.js.LICENSE.txt",
+    "static/media/UniaLubelska.module.scss": "/historia/static/media/wieden.579e6091.png",
+    "static/media/Navbar.module.scss": "/historia/static/media/img1.cf8d335e.png",
+    "static/media/video2.e34c6b30.mp4": "/historia/static/media/video2.e34c6b30.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e61f0a22.js",
+    "static/js/2.491ce637.chunk.js",
+    "static/css/main.5239b431.chunk.css",
+    "static/js/main.34d845fa.chunk.js"
+  ]
+}
